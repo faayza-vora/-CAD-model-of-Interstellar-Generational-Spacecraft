@@ -1,2 +1,3 @@
-# -CAD-model-of-Interstellar-Generational-Spacecraft
-Course end project for ES101 Engineering Graphics
+## CAD-model-of-Interstellar-Generational-Spacecraft
+#### Kindly read [License](./LICENSE) before referring any of these files.
+
